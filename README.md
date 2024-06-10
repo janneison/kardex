@@ -1,5 +1,5 @@
 <a href="https://github.com/janneison">
-   <img src="https://github.com/janneison/bvcstate/blob/main/img/bvc.jpg" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
+   <img src="https://triko.co/wp-content/uploads/2023/12/cropped-triko_logo_home-13.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
 
 # Prueba Tecnica Hulk Store
