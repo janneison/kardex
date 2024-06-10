@@ -19,19 +19,16 @@ El siguiente diagrama nos ilustra la propuesta que se compone de una libreria pa
 
 
 ## Modelo de Clases
-El siguiente diagrama de aplicacion ilustra el micro servicio para configurar estados por entidad, sus reglas y sus posibles estados.
+El siguiente diagrama de aplicacion ilustra el micro servicio para los productos, se ilustra como base para cada uno de los microservicios que se usaran en la aplicacion.
 
-![](img/ms-configuration.png)
-
-El siguiente diagrama de clases ilustra a manera general como deberia funcionar la libreria.
-
-![](img/diagram-clases.png)
-
-## Propuesta de arquitectura orientada a Api y SDK
+![](img/product-ms.png)
 
 
-El siguiente diagrama ilustra una propuesta a manera de arquitectura de solucion para un api y/o sdk para el manejo de la maquina de estados utilizando la propuesta de base de datos y que todas las funciones las entregue por una api.
+## Propuesta de arquitectura orientada a Api
 
-![](img/maquina-estados-2.png)
+
+El siguiente diagrama ilustra una propuesta a manera de arquitectura de solucion para un api para el sistema de ventas electronica al interior de la compañia.
+
+![](img/implementacion.png)
 
 
